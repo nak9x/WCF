@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title></title>
+		<script src="jquery.min.js"></script>
+		<script>
+			$(document).ready(function(){
+				$('#btnOK').click(function(){
+					$.ajax({
+						url: 'functions.php?type=' + $('#type').val(),
+						dataType: 'text',
+						success: function(data) {
+							$('#message').html(data);
+						}
+					});
+				});
+			});
+		</script>
+	</head>
+	
+	<body>
+		<div id="main">
+			<h2 id="heading">Import RSS</h2>
+			<select id="type">
+				<option value="news">News</option>
+				<option value="expert">Expert analysis</option>
+			</select>
+			<input type="button" id="btnOK" value="OK" />
+			<div id="message"></div>
+		</div>
+	</body>
+</html>

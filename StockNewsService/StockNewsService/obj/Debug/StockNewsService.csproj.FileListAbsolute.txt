@@ -1,0 +1,24 @@
+c:\users\minh huy\documents\visual studio 2010\Projects\StockNewsService\StockNewsService\obj\Debug\ResolveAssemblyReference.cache
+c:\users\minh huy\documents\visual studio 2010\Projects\StockNewsService\StockNewsService\bin\Debug\StockNewsService.dll.config
+c:\users\minh huy\documents\visual studio 2010\Projects\StockNewsService\StockNewsService\bin\Debug\StockNewsService.dll
+c:\users\minh huy\documents\visual studio 2010\Projects\StockNewsService\StockNewsService\bin\Debug\StockNewsService.pdb
+c:\users\minh huy\documents\visual studio 2010\Projects\StockNewsService\StockNewsService\obj\Debug\StockNewsService.dll
+c:\users\minh huy\documents\visual studio 2010\Projects\StockNewsService\StockNewsService\obj\Debug\StockNewsService.pdb
+D:\Tulieu\Study\HK211A\CNDVW\StockNewsService\StockNewsService\bin\Debug\StockNewsService.dll.config
+D:\Tulieu\Study\HK211A\CNDVW\StockNewsService\StockNewsService\bin\Debug\StockNewsService.dll
+D:\Tulieu\Study\HK211A\CNDVW\StockNewsService\StockNewsService\bin\Debug\StockNewsService.pdb
+D:\Tulieu\Study\HK211A\CNDVW\StockNewsService\StockNewsService\obj\Debug\ResolveAssemblyReference.cache
+D:\Tulieu\Study\HK211A\CNDVW\StockNewsService\StockNewsService\obj\Debug\StockNewsService.dll
+D:\Tulieu\Study\HK211A\CNDVW\StockNewsService\StockNewsService\obj\Debug\StockNewsService.pdb
+D:\Tulieu\Study\HK211A\CNDVW\Projects_Integrated\StockNewsService\StockNewsService\bin\Debug\StockNewsService.dll.config
+D:\Tulieu\Study\HK211A\CNDVW\Projects_Integrated\StockNewsService\StockNewsService\bin\Debug\StockNewsService.dll
+D:\Tulieu\Study\HK211A\CNDVW\Projects_Integrated\StockNewsService\StockNewsService\bin\Debug\StockNewsService.pdb
+D:\Tulieu\Study\HK211A\CNDVW\Projects_Integrated\StockNewsService\StockNewsService\obj\Debug\ResolveAssemblyReference.cache
+D:\Tulieu\Study\HK211A\CNDVW\Projects_Integrated\StockNewsService\StockNewsService\obj\Debug\StockNewsService.dll
+D:\Tulieu\Study\HK211A\CNDVW\Projects_Integrated\StockNewsService\StockNewsService\obj\Debug\StockNewsService.pdb
+D:\Tulieu\Study\HK211A\CNDVW\Project_Integrated\StockNewsService\StockNewsService\bin\Debug\StockNewsService.dll.config
+D:\Tulieu\Study\HK211A\CNDVW\Project_Integrated\StockNewsService\StockNewsService\bin\Debug\StockNewsService.dll
+D:\Tulieu\Study\HK211A\CNDVW\Project_Integrated\StockNewsService\StockNewsService\bin\Debug\StockNewsService.pdb
+D:\Tulieu\Study\HK211A\CNDVW\Project_Integrated\StockNewsService\StockNewsService\obj\Debug\ResolveAssemblyReference.cache
+D:\Tulieu\Study\HK211A\CNDVW\Project_Integrated\StockNewsService\StockNewsService\obj\Debug\StockNewsService.dll
+D:\Tulieu\Study\HK211A\CNDVW\Project_Integrated\StockNewsService\StockNewsService\obj\Debug\StockNewsService.pdb

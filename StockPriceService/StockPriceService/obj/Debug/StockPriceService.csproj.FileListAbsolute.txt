@@ -1,0 +1,30 @@
+c:\users\minh huy\documents\visual studio 2010\Projects\StockPriceService\StockPriceService\bin\Debug\StockPriceService.dll.config
+c:\users\minh huy\documents\visual studio 2010\Projects\StockPriceService\StockPriceService\bin\Debug\StockPriceService.dll
+c:\users\minh huy\documents\visual studio 2010\Projects\StockPriceService\StockPriceService\bin\Debug\StockPriceService.pdb
+c:\users\minh huy\documents\visual studio 2010\Projects\StockPriceService\StockPriceService\obj\Debug\ResolveAssemblyReference.cache
+c:\users\minh huy\documents\visual studio 2010\Projects\StockPriceService\StockPriceService\obj\Debug\StockPriceService.dll
+c:\users\minh huy\documents\visual studio 2010\Projects\StockPriceService\StockPriceService\obj\Debug\StockPriceService.pdb
+D:\Tulieu\Study\HK211A\CNDVW\StockPriceService\StockPriceService\bin\Debug\StockPriceService.dll.config
+D:\Tulieu\Study\HK211A\CNDVW\StockPriceService\StockPriceService\bin\Debug\StockPriceService.dll
+D:\Tulieu\Study\HK211A\CNDVW\StockPriceService\StockPriceService\bin\Debug\StockPriceService.pdb
+D:\Tulieu\Study\HK211A\CNDVW\StockPriceService\StockPriceService\obj\Debug\ResolveAssemblyReference.cache
+D:\Tulieu\Study\HK211A\CNDVW\StockPriceService\StockPriceService\obj\Debug\StockPriceService.dll
+D:\Tulieu\Study\HK211A\CNDVW\StockPriceService\StockPriceService\obj\Debug\StockPriceService.pdb
+D:\Tulieu\Study\HK211A\CNDVW\Projects_Integrated\StockPriceService\StockPriceService\bin\Debug\StockPriceService.dll.config
+D:\Tulieu\Study\HK211A\CNDVW\Projects_Integrated\StockPriceService\StockPriceService\bin\Debug\StockPriceService.dll
+D:\Tulieu\Study\HK211A\CNDVW\Projects_Integrated\StockPriceService\StockPriceService\bin\Debug\StockPriceService.pdb
+D:\Tulieu\Study\HK211A\CNDVW\Projects_Integrated\StockPriceService\StockPriceService\obj\Debug\ResolveAssemblyReference.cache
+D:\Tulieu\Study\HK211A\CNDVW\Projects_Integrated\StockPriceService\StockPriceService\obj\Debug\StockPriceService.dll
+D:\Tulieu\Study\HK211A\CNDVW\Projects_Integrated\StockPriceService\StockPriceService\obj\Debug\StockPriceService.pdb
+F:\Projects_Integrated\StockPriceService\StockPriceService\bin\Debug\StockPriceService.dll.config
+F:\Projects_Integrated\StockPriceService\StockPriceService\bin\Debug\StockPriceService.dll
+F:\Projects_Integrated\StockPriceService\StockPriceService\bin\Debug\StockPriceService.pdb
+F:\Projects_Integrated\StockPriceService\StockPriceService\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects_Integrated\StockPriceService\StockPriceService\obj\Debug\StockPriceService.dll
+F:\Projects_Integrated\StockPriceService\StockPriceService\obj\Debug\StockPriceService.pdb
+D:\Tulieu\Study\HK211A\CNDVW\Project_Integrated\StockPriceService\StockPriceService\bin\Debug\StockPriceService.dll.config
+D:\Tulieu\Study\HK211A\CNDVW\Project_Integrated\StockPriceService\StockPriceService\bin\Debug\StockPriceService.dll
+D:\Tulieu\Study\HK211A\CNDVW\Project_Integrated\StockPriceService\StockPriceService\bin\Debug\StockPriceService.pdb
+D:\Tulieu\Study\HK211A\CNDVW\Project_Integrated\StockPriceService\StockPriceService\obj\Debug\ResolveAssemblyReference.cache
+D:\Tulieu\Study\HK211A\CNDVW\Project_Integrated\StockPriceService\StockPriceService\obj\Debug\StockPriceService.dll
+D:\Tulieu\Study\HK211A\CNDVW\Project_Integrated\StockPriceService\StockPriceService\obj\Debug\StockPriceService.pdb

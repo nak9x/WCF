@@ -1,0 +1,6 @@
+C:\My Data\StockMarket\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll.config
+C:\My Data\StockMarket\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll
+C:\My Data\StockMarket\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.pdb
+C:\My Data\StockMarket\WcfServiceLibrary1\obj\Debug\ResolveAssemblyReference.cache
+C:\My Data\StockMarket\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.dll
+C:\My Data\StockMarket\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.pdb

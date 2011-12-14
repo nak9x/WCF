@@ -1,0 +1,60 @@
+C:\My Data\StockMarket\WcfServiceLibrary1\obj\Debug\ResolveAssemblyReference.cache
+C:\My Data\StockMarket\WcfServiceLibrary1\bin\Debug\StockMarketService.dll.config
+C:\My Data\StockMarket\WcfServiceLibrary1\bin\Debug\StockMarketService.dll
+C:\My Data\StockMarket\WcfServiceLibrary1\bin\Debug\StockMarketService.pdb
+C:\My Data\StockMarket\WcfServiceLibrary1\obj\Debug\StockMarketService.dll
+C:\My Data\StockMarket\WcfServiceLibrary1\obj\Debug\StockMarketService.pdb
+C:\Documents and Settings\Khoa\My Documents\Downloads\Compressed\StockMarket\StockMarketService\bin\Debug\StockMarketService.dll.config
+C:\Documents and Settings\Khoa\My Documents\Downloads\Compressed\StockMarket\StockMarketService\bin\Debug\StockMarketService.dll
+C:\Documents and Settings\Khoa\My Documents\Downloads\Compressed\StockMarket\StockMarketService\bin\Debug\StockMarketService.pdb
+C:\Documents and Settings\Khoa\My Documents\Downloads\Compressed\StockMarket\StockMarketService\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Khoa\My Documents\Downloads\Compressed\StockMarket\StockMarketService\obj\Debug\StockMarketService.dll
+C:\Documents and Settings\Khoa\My Documents\Downloads\Compressed\StockMarket\StockMarketService\obj\Debug\StockMarketService.pdb
+C:\Documents and Settings\Khoa\My Documents\Downloads\Compressed\StockMarket_Edited\StockMarketService\bin\Debug\StockMarketService.dll.config
+C:\Documents and Settings\Khoa\My Documents\Downloads\Compressed\StockMarket_Edited\StockMarketService\bin\Debug\StockMarketService.dll
+C:\Documents and Settings\Khoa\My Documents\Downloads\Compressed\StockMarket_Edited\StockMarketService\bin\Debug\StockMarketService.pdb
+C:\Documents and Settings\Khoa\My Documents\Downloads\Compressed\StockMarket_Edited\StockMarketService\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Khoa\My Documents\Downloads\Compressed\StockMarket_Edited\StockMarketService\obj\Debug\StockMarketService.dll
+C:\Documents and Settings\Khoa\My Documents\Downloads\Compressed\StockMarket_Edited\StockMarketService\obj\Debug\StockMarketService.pdb
+C:\Users\NgocLan\Desktop\StockMarket_Edited\StockMarket_Edited\StockMarketService\bin\Debug\StockMarketService.dll.config
+C:\Users\NgocLan\Desktop\StockMarket_Edited\StockMarket_Edited\StockMarketService\bin\Debug\StockMarketService.dll
+C:\Users\NgocLan\Desktop\StockMarket_Edited\StockMarket_Edited\StockMarketService\bin\Debug\StockMarketService.pdb
+C:\Users\NgocLan\Desktop\StockMarket_Edited\StockMarket_Edited\StockMarketService\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\NgocLan\Desktop\StockMarket_Edited\StockMarket_Edited\StockMarketService\obj\Debug\StockMarketService.dll
+C:\Users\NgocLan\Desktop\StockMarket_Edited\StockMarket_Edited\StockMarketService\obj\Debug\StockMarketService.pdb
+C:\My Data\Normal\StockMarket\StockMarketService\bin\Debug\StockMarketService.dll.config
+C:\My Data\Normal\StockMarket\StockMarketService\bin\Debug\StockMarketService.dll
+C:\My Data\Normal\StockMarket\StockMarketService\bin\Debug\StockMarketService.pdb
+C:\My Data\Normal\StockMarket\StockMarketService\obj\Debug\ResolveAssemblyReference.cache
+C:\My Data\Normal\StockMarket\StockMarketService\obj\Debug\StockMarketService.dll
+C:\My Data\Normal\StockMarket\StockMarketService\obj\Debug\StockMarketService.pdb
+D:\Stockmarket\StockMarket\StockMarketService\bin\Debug\StockMarketService.dll.config
+D:\Stockmarket\StockMarket\StockMarketService\bin\Debug\StockMarketService.dll
+D:\Stockmarket\StockMarket\StockMarketService\bin\Debug\StockMarketService.pdb
+D:\Stockmarket\StockMarket\StockMarketService\obj\Debug\ResolveAssemblyReference.cache
+D:\Stockmarket\StockMarket\StockMarketService\obj\Debug\StockMarketService.dll
+D:\Stockmarket\StockMarket\StockMarketService\obj\Debug\StockMarketService.pdb
+D:\Tulieu\Study\HK211A\CNDVW\StockMarketService\bin\Debug\StockMarketService.dll.config
+D:\Tulieu\Study\HK211A\CNDVW\StockMarketService\bin\Debug\StockMarketService.dll
+D:\Tulieu\Study\HK211A\CNDVW\StockMarketService\bin\Debug\StockMarketService.pdb
+D:\Tulieu\Study\HK211A\CNDVW\StockMarketService\obj\Debug\ResolveAssemblyReference.cache
+D:\Tulieu\Study\HK211A\CNDVW\StockMarketService\obj\Debug\StockMarketService.dll
+D:\Tulieu\Study\HK211A\CNDVW\StockMarketService\obj\Debug\StockMarketService.pdb
+D:\Tulieu\Study\HK211A\CNDVW\Projects_Integrated\StockMarketService\bin\Debug\StockMarketService.dll.config
+D:\Tulieu\Study\HK211A\CNDVW\Projects_Integrated\StockMarketService\bin\Debug\StockMarketService.dll
+D:\Tulieu\Study\HK211A\CNDVW\Projects_Integrated\StockMarketService\bin\Debug\StockMarketService.pdb
+D:\Tulieu\Study\HK211A\CNDVW\Projects_Integrated\StockMarketService\obj\Debug\ResolveAssemblyReference.cache
+D:\Tulieu\Study\HK211A\CNDVW\Projects_Integrated\StockMarketService\obj\Debug\StockMarketService.dll
+D:\Tulieu\Study\HK211A\CNDVW\Projects_Integrated\StockMarketService\obj\Debug\StockMarketService.pdb
+F:\Projects_Integrated\StockMarketService\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects_Integrated\StockMarketService\obj\Debug\StockMarketService.dll
+F:\Projects_Integrated\StockMarketService\obj\Debug\StockMarketService.pdb
+F:\Projects_Integrated\StockMarketService\bin\Debug\StockMarketService.dll.config
+F:\Projects_Integrated\StockMarketService\bin\Debug\StockMarketService.dll
+F:\Projects_Integrated\StockMarketService\bin\Debug\StockMarketService.pdb
+D:\Tulieu\Study\HK211A\CNDVW\Project_Integrated\StockMarketService\bin\Debug\StockMarketService.dll.config
+D:\Tulieu\Study\HK211A\CNDVW\Project_Integrated\StockMarketService\bin\Debug\StockMarketService.dll
+D:\Tulieu\Study\HK211A\CNDVW\Project_Integrated\StockMarketService\bin\Debug\StockMarketService.pdb
+D:\Tulieu\Study\HK211A\CNDVW\Project_Integrated\StockMarketService\obj\Debug\ResolveAssemblyReference.cache
+D:\Tulieu\Study\HK211A\CNDVW\Project_Integrated\StockMarketService\obj\Debug\StockMarketService.dll
+D:\Tulieu\Study\HK211A\CNDVW\Project_Integrated\StockMarketService\obj\Debug\StockMarketService.pdb

@@ -1,0 +1,59 @@
+c:\users\minh huy\documents\visual studio 2010\Projects\StockPriceHost\StockPriceHost\bin\Debug\StockPriceHost.exe
+c:\users\minh huy\documents\visual studio 2010\Projects\StockPriceHost\StockPriceHost\bin\Debug\StockPriceHost.pdb
+c:\users\minh huy\documents\visual studio 2010\Projects\StockPriceHost\StockPriceHost\bin\Debug\StockPriceService.dll
+c:\users\minh huy\documents\visual studio 2010\Projects\StockPriceHost\StockPriceHost\bin\Debug\StockPriceService.pdb
+c:\users\minh huy\documents\visual studio 2010\Projects\StockPriceHost\StockPriceHost\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\minh huy\documents\visual studio 2010\Projects\StockPriceHost\StockPriceHost\obj\x86\Debug\StockPriceHost.exe
+c:\users\minh huy\documents\visual studio 2010\Projects\StockPriceHost\StockPriceHost\obj\x86\Debug\StockPriceHost.pdb
+D:\Tulieu\Study\HK211A\CNDVW\StockPriceHost\StockPriceHost\bin\Debug\StockPriceHost.exe
+D:\Tulieu\Study\HK211A\CNDVW\StockPriceHost\StockPriceHost\bin\Debug\StockPriceHost.pdb
+D:\Tulieu\Study\HK211A\CNDVW\StockPriceHost\StockPriceHost\bin\Debug\StockPriceService.dll
+D:\Tulieu\Study\HK211A\CNDVW\StockPriceHost\StockPriceHost\bin\Debug\StockPriceService.pdb
+D:\Tulieu\Study\HK211A\CNDVW\StockPriceHost\StockPriceHost\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Tulieu\Study\HK211A\CNDVW\StockPriceHost\StockPriceHost\obj\x86\Debug\StockPriceHost.exe
+D:\Tulieu\Study\HK211A\CNDVW\StockPriceHost\StockPriceHost\obj\x86\Debug\StockPriceHost.pdb
+D:\Tulieu\Study\HK211A\CNDVW\StockPriceHost\StockPriceHost\bin\Debug\StockNewsService.dll
+D:\Tulieu\Study\HK211A\CNDVW\StockPriceHost\StockPriceHost\bin\Debug\StockNewsService.pdb
+D:\Tulieu\Study\HK211A\CNDVW\StockPriceHost\StockPriceHost\bin\Debug\ForecastService.dll
+D:\Tulieu\Study\HK211A\CNDVW\StockPriceHost\StockPriceHost\bin\Debug\StockMarketService.dll
+D:\Tulieu\Study\HK211A\CNDVW\StockPriceHost\StockPriceHost\bin\Debug\ForecastService.pdb
+D:\Tulieu\Study\HK211A\CNDVW\StockPriceHost\StockPriceHost\bin\Debug\StockMarketService.pdb
+D:\Tulieu\Study\HK211A\CNDVW\Projects_Integrated\StockPriceHost\StockPriceHost\bin\Debug\StockPriceHost.exe
+D:\Tulieu\Study\HK211A\CNDVW\Projects_Integrated\StockPriceHost\StockPriceHost\bin\Debug\StockPriceHost.pdb
+D:\Tulieu\Study\HK211A\CNDVW\Projects_Integrated\StockPriceHost\StockPriceHost\bin\Debug\ForecastService.dll
+D:\Tulieu\Study\HK211A\CNDVW\Projects_Integrated\StockPriceHost\StockPriceHost\bin\Debug\StockMarketService.dll
+D:\Tulieu\Study\HK211A\CNDVW\Projects_Integrated\StockPriceHost\StockPriceHost\bin\Debug\StockNewsService.dll
+D:\Tulieu\Study\HK211A\CNDVW\Projects_Integrated\StockPriceHost\StockPriceHost\bin\Debug\StockPriceService.dll
+D:\Tulieu\Study\HK211A\CNDVW\Projects_Integrated\StockPriceHost\StockPriceHost\bin\Debug\ForecastService.pdb
+D:\Tulieu\Study\HK211A\CNDVW\Projects_Integrated\StockPriceHost\StockPriceHost\bin\Debug\StockMarketService.pdb
+D:\Tulieu\Study\HK211A\CNDVW\Projects_Integrated\StockPriceHost\StockPriceHost\bin\Debug\StockNewsService.pdb
+D:\Tulieu\Study\HK211A\CNDVW\Projects_Integrated\StockPriceHost\StockPriceHost\bin\Debug\StockPriceService.pdb
+D:\Tulieu\Study\HK211A\CNDVW\Projects_Integrated\StockPriceHost\StockPriceHost\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Tulieu\Study\HK211A\CNDVW\Projects_Integrated\StockPriceHost\StockPriceHost\obj\x86\Debug\StockPriceHost.exe
+D:\Tulieu\Study\HK211A\CNDVW\Projects_Integrated\StockPriceHost\StockPriceHost\obj\x86\Debug\StockPriceHost.pdb
+F:\Projects_Integrated\StockPriceHost\StockPriceHost\bin\Debug\StockPriceHost.exe
+F:\Projects_Integrated\StockPriceHost\StockPriceHost\bin\Debug\StockPriceHost.pdb
+F:\Projects_Integrated\StockPriceHost\StockPriceHost\bin\Debug\ForecastService.dll
+F:\Projects_Integrated\StockPriceHost\StockPriceHost\bin\Debug\StockMarketService.dll
+F:\Projects_Integrated\StockPriceHost\StockPriceHost\bin\Debug\StockNewsService.dll
+F:\Projects_Integrated\StockPriceHost\StockPriceHost\bin\Debug\StockPriceService.dll
+F:\Projects_Integrated\StockPriceHost\StockPriceHost\bin\Debug\ForecastService.pdb
+F:\Projects_Integrated\StockPriceHost\StockPriceHost\bin\Debug\StockMarketService.pdb
+F:\Projects_Integrated\StockPriceHost\StockPriceHost\bin\Debug\StockNewsService.pdb
+F:\Projects_Integrated\StockPriceHost\StockPriceHost\bin\Debug\StockPriceService.pdb
+F:\Projects_Integrated\StockPriceHost\StockPriceHost\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Projects_Integrated\StockPriceHost\StockPriceHost\obj\x86\Debug\StockPriceHost.exe
+F:\Projects_Integrated\StockPriceHost\StockPriceHost\obj\x86\Debug\StockPriceHost.pdb
+D:\Tulieu\Study\HK211A\CNDVW\Project_Integrated\StockPriceHost\StockPriceHost\bin\Debug\StockPriceHost.exe
+D:\Tulieu\Study\HK211A\CNDVW\Project_Integrated\StockPriceHost\StockPriceHost\bin\Debug\StockPriceHost.pdb
+D:\Tulieu\Study\HK211A\CNDVW\Project_Integrated\StockPriceHost\StockPriceHost\bin\Debug\ForecastService.dll
+D:\Tulieu\Study\HK211A\CNDVW\Project_Integrated\StockPriceHost\StockPriceHost\bin\Debug\StockMarketService.dll
+D:\Tulieu\Study\HK211A\CNDVW\Project_Integrated\StockPriceHost\StockPriceHost\bin\Debug\StockNewsService.dll
+D:\Tulieu\Study\HK211A\CNDVW\Project_Integrated\StockPriceHost\StockPriceHost\bin\Debug\StockPriceService.dll
+D:\Tulieu\Study\HK211A\CNDVW\Project_Integrated\StockPriceHost\StockPriceHost\bin\Debug\ForecastService.pdb
+D:\Tulieu\Study\HK211A\CNDVW\Project_Integrated\StockPriceHost\StockPriceHost\bin\Debug\StockMarketService.pdb
+D:\Tulieu\Study\HK211A\CNDVW\Project_Integrated\StockPriceHost\StockPriceHost\bin\Debug\StockNewsService.pdb
+D:\Tulieu\Study\HK211A\CNDVW\Project_Integrated\StockPriceHost\StockPriceHost\bin\Debug\StockPriceService.pdb
+D:\Tulieu\Study\HK211A\CNDVW\Project_Integrated\StockPriceHost\StockPriceHost\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Tulieu\Study\HK211A\CNDVW\Project_Integrated\StockPriceHost\StockPriceHost\obj\x86\Debug\StockPriceHost.exe
+D:\Tulieu\Study\HK211A\CNDVW\Project_Integrated\StockPriceHost\StockPriceHost\obj\x86\Debug\StockPriceHost.pdb

@@ -1,0 +1,81 @@
+c:\users\minh huy\documents\visual studio 2010\Projects\StockPriceHost\StockClient\bin\Debug\StockClient.exe
+c:\users\minh huy\documents\visual studio 2010\Projects\StockPriceHost\StockClient\bin\Debug\StockClient.pdb
+c:\users\minh huy\documents\visual studio 2010\Projects\StockPriceHost\StockClient\bin\Debug\StockPriceService.dll
+c:\users\minh huy\documents\visual studio 2010\Projects\StockPriceHost\StockClient\bin\Debug\StockPriceService.pdb
+c:\users\minh huy\documents\visual studio 2010\Projects\StockPriceHost\StockClient\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\minh huy\documents\visual studio 2010\Projects\StockPriceHost\StockClient\obj\x86\Debug\StockClient.Form1.resources
+c:\users\minh huy\documents\visual studio 2010\Projects\StockPriceHost\StockClient\obj\x86\Debug\StockClient.Properties.Resources.resources
+c:\users\minh huy\documents\visual studio 2010\Projects\StockPriceHost\StockClient\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\minh huy\documents\visual studio 2010\Projects\StockPriceHost\StockClient\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\minh huy\documents\visual studio 2010\Projects\StockPriceHost\StockClient\obj\x86\Debug\StockClient.exe
+c:\users\minh huy\documents\visual studio 2010\Projects\StockPriceHost\StockClient\obj\x86\Debug\StockClient.pdb
+C:\Users\Minh Huy\documents\visual studio 2010\Projects\StockPriceHost\StockClient\bin\Debug\StockNewsService.dll
+C:\Users\Minh Huy\documents\visual studio 2010\Projects\StockPriceHost\StockClient\bin\Debug\StockNewsService.pdb
+D:\Tulieu\Study\HK211A\CNDVW\StockPriceHost\StockClient\obj\x86\Debug\StockClient.exe
+D:\Tulieu\Study\HK211A\CNDVW\StockPriceHost\StockClient\obj\x86\Debug\StockClient.pdb
+D:\Tulieu\Study\HK211A\CNDVW\StockPriceHost\StockClient\bin\Debug\StockClient.exe
+D:\Tulieu\Study\HK211A\CNDVW\StockPriceHost\StockClient\bin\Debug\StockClient.pdb
+D:\Tulieu\Study\HK211A\CNDVW\StockPriceHost\StockClient\bin\Debug\StockNewsService.dll
+D:\Tulieu\Study\HK211A\CNDVW\StockPriceHost\StockClient\bin\Debug\StockPriceService.dll
+D:\Tulieu\Study\HK211A\CNDVW\StockPriceHost\StockClient\bin\Debug\StockNewsService.pdb
+D:\Tulieu\Study\HK211A\CNDVW\StockPriceHost\StockClient\bin\Debug\StockPriceService.pdb
+D:\Tulieu\Study\HK211A\CNDVW\StockPriceHost\StockClient\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Tulieu\Study\HK211A\CNDVW\StockPriceHost\StockClient\obj\x86\Debug\StockClient.Form1.resources
+D:\Tulieu\Study\HK211A\CNDVW\StockPriceHost\StockClient\obj\x86\Debug\StockClient.Properties.Resources.resources
+D:\Tulieu\Study\HK211A\CNDVW\StockPriceHost\StockClient\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Tulieu\Study\HK211A\CNDVW\StockPriceHost\StockClient\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Tulieu\Study\HK211A\CNDVW\StockPriceHost\StockClient\bin\Debug\ForecastService.dll
+D:\Tulieu\Study\HK211A\CNDVW\StockPriceHost\StockClient\bin\Debug\StockMarketService.dll
+D:\Tulieu\Study\HK211A\CNDVW\StockPriceHost\StockClient\bin\Debug\ForecastService.pdb
+D:\Tulieu\Study\HK211A\CNDVW\StockPriceHost\StockClient\bin\Debug\StockMarketService.pdb
+D:\Tulieu\Study\HK211A\CNDVW\Projects_Integrated\StockPriceHost\StockClient\obj\x86\Debug\StockClient.exe
+D:\Tulieu\Study\HK211A\CNDVW\Projects_Integrated\StockPriceHost\StockClient\obj\x86\Debug\StockClient.pdb
+D:\Tulieu\Study\HK211A\CNDVW\Projects_Integrated\StockPriceHost\StockClient\bin\Debug\StockClient.exe
+D:\Tulieu\Study\HK211A\CNDVW\Projects_Integrated\StockPriceHost\StockClient\bin\Debug\StockClient.pdb
+D:\Tulieu\Study\HK211A\CNDVW\Projects_Integrated\StockPriceHost\StockClient\bin\Debug\ForecastService.dll
+D:\Tulieu\Study\HK211A\CNDVW\Projects_Integrated\StockPriceHost\StockClient\bin\Debug\StockMarketService.dll
+D:\Tulieu\Study\HK211A\CNDVW\Projects_Integrated\StockPriceHost\StockClient\bin\Debug\StockNewsService.dll
+D:\Tulieu\Study\HK211A\CNDVW\Projects_Integrated\StockPriceHost\StockClient\bin\Debug\StockPriceService.dll
+D:\Tulieu\Study\HK211A\CNDVW\Projects_Integrated\StockPriceHost\StockClient\bin\Debug\ForecastService.pdb
+D:\Tulieu\Study\HK211A\CNDVW\Projects_Integrated\StockPriceHost\StockClient\bin\Debug\StockMarketService.pdb
+D:\Tulieu\Study\HK211A\CNDVW\Projects_Integrated\StockPriceHost\StockClient\bin\Debug\StockNewsService.pdb
+D:\Tulieu\Study\HK211A\CNDVW\Projects_Integrated\StockPriceHost\StockClient\bin\Debug\StockPriceService.pdb
+D:\Tulieu\Study\HK211A\CNDVW\Projects_Integrated\StockPriceHost\StockClient\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Tulieu\Study\HK211A\CNDVW\Projects_Integrated\StockPriceHost\StockClient\obj\x86\Debug\StockClient.Form1.resources
+D:\Tulieu\Study\HK211A\CNDVW\Projects_Integrated\StockPriceHost\StockClient\obj\x86\Debug\StockClient.Properties.Resources.resources
+D:\Tulieu\Study\HK211A\CNDVW\Projects_Integrated\StockPriceHost\StockClient\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Tulieu\Study\HK211A\CNDVW\Projects_Integrated\StockPriceHost\StockClient\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Projects_Integrated\StockPriceHost\StockClient\obj\x86\Debug\StockClient.exe
+F:\Projects_Integrated\StockPriceHost\StockClient\obj\x86\Debug\StockClient.pdb
+F:\Projects_Integrated\StockPriceHost\StockClient\bin\Debug\StockClient.exe
+F:\Projects_Integrated\StockPriceHost\StockClient\bin\Debug\StockClient.pdb
+F:\Projects_Integrated\StockPriceHost\StockClient\bin\Debug\ForecastService.dll
+F:\Projects_Integrated\StockPriceHost\StockClient\bin\Debug\StockMarketService.dll
+F:\Projects_Integrated\StockPriceHost\StockClient\bin\Debug\StockNewsService.dll
+F:\Projects_Integrated\StockPriceHost\StockClient\bin\Debug\StockPriceService.dll
+F:\Projects_Integrated\StockPriceHost\StockClient\bin\Debug\ForecastService.pdb
+F:\Projects_Integrated\StockPriceHost\StockClient\bin\Debug\StockMarketService.pdb
+F:\Projects_Integrated\StockPriceHost\StockClient\bin\Debug\StockNewsService.pdb
+F:\Projects_Integrated\StockPriceHost\StockClient\bin\Debug\StockPriceService.pdb
+F:\Projects_Integrated\StockPriceHost\StockClient\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Projects_Integrated\StockPriceHost\StockClient\obj\x86\Debug\StockClient.Form1.resources
+F:\Projects_Integrated\StockPriceHost\StockClient\obj\x86\Debug\StockClient.Properties.Resources.resources
+F:\Projects_Integrated\StockPriceHost\StockClient\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Projects_Integrated\StockPriceHost\StockClient\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Tulieu\Study\HK211A\CNDVW\Project_Integrated\StockPriceHost\StockClient\obj\x86\Debug\StockClient.exe
+D:\Tulieu\Study\HK211A\CNDVW\Project_Integrated\StockPriceHost\StockClient\obj\x86\Debug\StockClient.pdb
+D:\Tulieu\Study\HK211A\CNDVW\Project_Integrated\StockPriceHost\StockClient\bin\Debug\StockClient.exe
+D:\Tulieu\Study\HK211A\CNDVW\Project_Integrated\StockPriceHost\StockClient\bin\Debug\StockClient.pdb
+D:\Tulieu\Study\HK211A\CNDVW\Project_Integrated\StockPriceHost\StockClient\bin\Debug\ForecastService.dll
+D:\Tulieu\Study\HK211A\CNDVW\Project_Integrated\StockPriceHost\StockClient\bin\Debug\StockMarketService.dll
+D:\Tulieu\Study\HK211A\CNDVW\Project_Integrated\StockPriceHost\StockClient\bin\Debug\StockNewsService.dll
+D:\Tulieu\Study\HK211A\CNDVW\Project_Integrated\StockPriceHost\StockClient\bin\Debug\StockPriceService.dll
+D:\Tulieu\Study\HK211A\CNDVW\Project_Integrated\StockPriceHost\StockClient\bin\Debug\ForecastService.pdb
+D:\Tulieu\Study\HK211A\CNDVW\Project_Integrated\StockPriceHost\StockClient\bin\Debug\StockMarketService.pdb
+D:\Tulieu\Study\HK211A\CNDVW\Project_Integrated\StockPriceHost\StockClient\bin\Debug\StockNewsService.pdb
+D:\Tulieu\Study\HK211A\CNDVW\Project_Integrated\StockPriceHost\StockClient\bin\Debug\StockPriceService.pdb
+D:\Tulieu\Study\HK211A\CNDVW\Project_Integrated\StockPriceHost\StockClient\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Tulieu\Study\HK211A\CNDVW\Project_Integrated\StockPriceHost\StockClient\obj\x86\Debug\StockClient.Form1.resources
+D:\Tulieu\Study\HK211A\CNDVW\Project_Integrated\StockPriceHost\StockClient\obj\x86\Debug\StockClient.Properties.Resources.resources
+D:\Tulieu\Study\HK211A\CNDVW\Project_Integrated\StockPriceHost\StockClient\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Tulieu\Study\HK211A\CNDVW\Project_Integrated\StockPriceHost\StockClient\obj\x86\Debug\GenerateResource.write.1.tlog
